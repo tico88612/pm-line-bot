@@ -2,7 +2,7 @@ var linebot = require('linebot');
 var express = require('express');
 
 var bot = linebot({
-    channelId: process.env.ChannelId,
+    channelId: process.env.channelId,
     channelSecret: process.env.channelSecret,
     channelAccessToken: process.env.channelAccessToken
 });
