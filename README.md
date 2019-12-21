@@ -1,1 +1,3 @@
-# pm-line-bot
+# LINE BOT 專案管理員
+
+目前正在製作中...
