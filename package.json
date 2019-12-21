@@ -4,6 +4,7 @@
   "description": "PM LINE BOT",
   "main": "index.js",
   "dependencies": {
+    "express": "^4.17.1",
     "linebot": "^1.5.3"
   },
   "devDependencies": {},
